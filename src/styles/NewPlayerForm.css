@@ -1,0 +1,11 @@
+#new-player {
+    padding-bottom: 3rem;
+    background-color:rgba(0, 0, 0, 0.04);
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+#playerTitle{
+  text-decoration: underline;
+  padding: 1rem;
+}
